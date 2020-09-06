@@ -1,4 +1,5 @@
 package comodin;
+//Es un GENERICO DEL TIPO xxx
 
 //Es una clase del tipo Generica
 public class Pareja<T> {
